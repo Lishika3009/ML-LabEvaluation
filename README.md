@@ -16,7 +16,9 @@ Best Model is Bayesian Ridge with a r^2 value of 0.6632
 
 ## Other visual Analysis
 ![image](https://github.com/user-attachments/assets/64a3a2d4-8529-4b0a-b3f0-cd4e6c3d31b8)
-![image](https://github.com/user-attachments/assets/221afa5b-d6a3-490c-b448-24b76b41f29c)
 
 ## Predictions on Test Dataset
 ![image](https://github.com/user-attachments/assets/c9aaf5fc-cfbf-4b65-963e-a1bd127aa065)
+
+## Summary
+This project compared various regression models to predict a continuous target variable. Linear models (Bayesian Ridge, Linear Regression, Ridge Regression) consistently outperformed more complex models like tree-based and regularization methods. Further research could involve hyperparameter tuning and feature engineering to potentially improve performance.
