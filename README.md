@@ -1,6 +1,6 @@
 # Lab-Evaluation
 Target number-2
-Best Model is Bayesian Ridge with a r^2 value of 0.6632
+Best Model is Bayesian Ridge with a r^2 value of 0.6566
 
 ## Original Dataset
 ![image](https://github.com/user-attachments/assets/349282f5-b374-416c-a8fc-e94be5f5c273)
